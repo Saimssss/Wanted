@@ -1,0 +1,27 @@
+body{
+    font-family: "Public Sans", sans-serif;
+    background-color: rgba(2, 82, 255, 0.5); 
+}
+
+.tittle{
+    text-align: center;
+}
+.fondointerno{
+    background-color: #ffffff; /* blanco */
+    width: 50rem;
+    height: 60rem;
+    max-width: 600px;
+    max-height: 560px;
+    margin: 100px auto;  /* lo centra en la página */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.9); /* sombra para que flote */
+    color: #333;
+}
+.img{
+    border-radius: 10px;
+}
+
+
+
+
