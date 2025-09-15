@@ -5,23 +5,24 @@ body{
 
 .tittle{
     text-align: center;
+    
 }
 .fondointerno{
     background-color: #ffffff; /* blanco */
     width: 50rem;
     height: 60rem;
     max-width: 600px;
-    max-height: 560px;
+    max-height: 600px;
     margin: 100px auto;  /* lo centra en la página */
     padding: 40px;
     border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.9); /* sombra para que flote */
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.9); /* sombra para que flote */
     color: #333;
 }
 .img{
     border-radius: 10px;
+    box-shadow: 0px 0px 15px black;
 }
-
 
 
 
